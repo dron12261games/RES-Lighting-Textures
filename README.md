@@ -6,7 +6,7 @@
 - [Texture Pack](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-Lighting-Textures/releases/latest/download/LightTextures.wad)
 - [Example Map (UDMF)](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-Lighting-Textures/releases/latest/download/LightTextures_ExampleMap.wad)
 
-# Example screenshots
+# Example screenshots:
 
 ## From Example map:
 ![Screen1](https://s1.hostingkartinok.com/uploads/images/2023/03/104f845cb0f839da88f8e13b756e208f.png)
